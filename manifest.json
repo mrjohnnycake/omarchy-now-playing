@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "id": "mrjohnnycake.now-playing",
-  "name": "Now Playing",
+  "name": "Media Now Playing",
   "version": "1.0.0",
   "author": "mrjohnnycake",
   "license": "MIT",
@@ -16,7 +16,7 @@
     "barWidget": "BarWidget.qml"
   },
   "barWidget": {
-    "displayName": "Now Playing",
+    "displayName": "Media Now Playing",
     "description": "Omarchy MPRIS now playing bar plugin with cava visualization",
     "category": "Media",
     "allowMultiple": false

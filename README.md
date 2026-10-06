@@ -1,10 +1,10 @@
-# Now Playing
+# Media Now Playing
 
 Omarchy MPRIS now playing bar plugin with cava visualization.
 
-![Now Playing in the Omarchy bar with its dropdown open](preview.png)
+![Media Now Playing in the Omarchy bar with its dropdown open](preview.png)
 
-Now Playing replaces Omarchy's built-in Media bar widget with a keyboard-first
+Media Now Playing replaces Omarchy's built-in Media bar widget with a keyboard-first
 version: the bar shows what's playing, and a single click opens a dropdown with
 the album art. Playback itself stays on your media keys.
 
@@ -39,7 +39,7 @@ the album art. Playback itself stays on your media keys.
 omarchy plugin add https://github.com/mrjohnnycake/omarchy-now-playing.git --enable
 ```
 
-Enabling Now Playing puts it in the built-in Media widget's place in the bar and
+Enabling Media Now Playing puts it in the built-in Media widget's place in the bar and
 switches off the built-in media service, so only one plugin answers your media
 keys. Your bar layout is otherwise left alone.
 
